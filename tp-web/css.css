@@ -1,0 +1,31 @@
+body {
+  position:fixed;
+  left: 20%;
+  font-family: Arial, sans-serif;
+  margin:20%;
+  background-color: #e9ecef;
+  top: auto;
+}
+h1 {
+  font-size: 40px;
+  color: #007BFF;
+  font-weight: bolder;
+}
+.ss{
+  background-color: #007BFF;
+  border-radius: 20px;
+  border:none;
+  color: white;
+  height: 40px;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
+}
+.ss:hover{
+  font-size: 14px;
+}
+.ss:active{
+  font-size: 12px;
+}
+.aa{
+  position: relative;
+}
